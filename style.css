@@ -1,0 +1,21 @@
+#mi-id_1{
+    border: 10px;
+    position: relative;
+    top: -100px;
+    left: 100px;
+    z-index: 0;
+    cursor: not-allowed;
+}
+#mi-id_2{
+    border: 1px;
+    position: relative;
+    top: -300px;
+    left: 500px;
+    z-index: 1;
+    cursor: auto;
+}
+#mi-id{
+    position: relative;
+    top: -100px;
+    left: 800px;
+}
